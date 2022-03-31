@@ -1,12 +1,12 @@
 9 rows 3 columns
 -double check links
 
--building basic HTML file to resemble mock up
+-building basic HTML file to resemble mock up 
     -creat 9 rows and 3 columns (col-1, col-10, col-1?)
 
 -set up event handler for save button
     -listen for clicks on each timeblocks save button, then save to local storage
-    
+
 -load any save data from storage
 
 -figure out how to create our text area for our desctription
